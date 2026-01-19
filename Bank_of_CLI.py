@@ -1,4 +1,4 @@
-#Bank Of Joe(program)
+#Bank Of CLI(program)
 
 from dataclasses import dataclass, field
 from datetime import date

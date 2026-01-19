@@ -1,4 +1,4 @@
-# Python Bank of Joe
+# Python Bank of CLI
 
 A simple, clean Bank Management System written in Python using OOP principles.  
 This project includes:
@@ -32,5 +32,4 @@ This project includes:
 
 ## Run the App
 
-```bash
-python bank_of_joe.py
+python Bank_of_CLI.py
